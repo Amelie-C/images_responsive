@@ -1,0 +1,33 @@
+body {
+  background-color: #1C1C19;
+}
+h1 span {
+  color: #C49413;
+}
+h1 {
+  text-align: center;
+  color: #780D0A;
+}
+section {
+  display: grid;
+  text-align: center;
+}
+img {
+  border-style: solid;
+  border-width: thin;
+}
+.coach {
+  grid-row-start: 1;
+}
+.goalkeepers {
+  grid-row-start: 2;
+}
+.defensers {
+  grid-row-start: 3;
+}
+.middles {
+  grid-row-start: 4;
+}
+.strikers {
+  grid-row-start: 5;
+}
