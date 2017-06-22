@@ -7,7 +7,6 @@ nav {
   background-color: grey;
   color: lightgrey;
   margin: 20px;
-  margin: 20px;
 }
 nav:hover {
 background-color: black;
@@ -16,4 +15,5 @@ background-color: black;
   header (max-width: 640px);
   footer (max-width: 640px);
   flex-direction: column;
+  word-spacing: 15px;
 }
